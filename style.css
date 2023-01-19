@@ -1,0 +1,11 @@
+#person_1 {
+  display: flex;
+}
+
+#person_2 {
+    display: none;
+}
+
+#person_3 {
+    display: none;
+}
